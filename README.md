@@ -1,3 +1,3 @@
 # day4-Snake-Ladder-Problem
-## Use Case 6
-    Reporting the number of times the dice was played to win the game and also the position after every die role.
+## Use Case 7
+    Playing game with two player. In case if player gets a Ladder then plays again. And report who won the game.
