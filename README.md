@@ -1,4 +1,4 @@
 # day4-Snake-Ladder-Problem
-## Use Case 4
-    Play game till player reaches the winning position 100.
-    In case player position moves below 0, then the player restarts from 0.
+## Use Case 5
+    Ensure player gets to exact position 100.
+    In case the player go above 100, the player stays in the same position till player gets exact number that adds to 100.
